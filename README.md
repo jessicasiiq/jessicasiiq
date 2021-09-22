@@ -38,12 +38,14 @@
 <br><br>
   
   
-    ![Snake animation](https://github.com/jessicasiiq/jessicasiiq/blob/output/github-contribution-grid-snake.svg)
   
  </section> 
     
   <p align="center">Até mais! 💕<p> 
-<!--
+<!--]
+
+    ![Snake animation](https://github.com/jessicasiiq/jessicasiiq/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 Hoje eu foco em *front-end*
 - 🌱 Estou, atualmente, tentando me aprofundar mais em: *HTML*/*CSS*, *Javascript*, *Typescript* e *React*.
 - 📫 Contate-me! → ssiqueirajessica@gmail.com
