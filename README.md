@@ -10,7 +10,6 @@
   <br>Meu foco atual está em <em>front-end web</em>, no entanto, eu adoro aprender coisas novas, então não estranhe se achar algo diferente por aqui!
 <br>Confira um pouquinho mais sobre as minhas contribuições e venha se conectar comigo nas minhas redes sociais. <br><br><strong>Toda troca é enriquecedora!<strong> 😊
 </p>
-  <br>
   
   <div align="center">
   <a href="https://github.com/jessicasiiq">
@@ -38,9 +37,9 @@
    <br><br><img align="center" alt="Perfil" src="https://cdn.discordapp.com/attachments/790210281967583244/890121975484268615/Webp.net-gifmaker_1.gif">
 <br><br>
   
-  <!--
-    ![Snake animation]()
-  -->
+  
+    ![Snake animation](https://github.com/jessicasiiq/jessicasiiq/blob/output/github-contribution-grid-snake.svg)
+  
  </section> 
     
   <p align="center">Até mais! 💕<p> 
